@@ -11,6 +11,7 @@ h1{
 
 h2{
 	font-size: 24px;
+	padding-left: 20px;
 }
 
 body {
@@ -38,7 +39,7 @@ a {
 
 .container{
 	width: 1024px;
-	margin: 0;
+	margin: 0 auto;
 
 }
 
@@ -53,6 +54,14 @@ a {
 
 #main-bio{
 	width: 65%;
+
+	
+}
+
+
+#contact-info{
+	width: 25%;
+	
 }
 
 #bio-image{
@@ -60,8 +69,4 @@ a {
 	height: 200px;
 	margin-right: 20px;
 
-}
-
-#contact-info{
-	width: 25%;
 }
